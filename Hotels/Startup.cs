@@ -1,4 +1,5 @@
 using Hotels.Models;
+using Hotels.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,7 +34,7 @@ namespace Hotels
                                     options.UseSqlServer(Configuration.GetConnectionString("IdentityConnection")));
             services.AddIdentity<User, IdentityRole>()
                                     .AddEntityFrameworkStores<IdentityContext>();
-
+            services.AddTransient<MailSender>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

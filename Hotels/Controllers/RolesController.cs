@@ -1,5 +1,6 @@
 ﻿using Hotels.Models;
 using Hotels.Models.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Hotels.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class RolesController:Controller
     {
         RoleManager<IdentityRole> roleManager;

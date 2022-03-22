@@ -7,7 +7,6 @@ C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Hotels.MvcApplication
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Hotels.RazorAssemblyInfo.cache
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Hotels.RazorAssemblyInfo.cs
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\staticwebassets\Hotels.StaticWebAssets.Manifest.cache
-C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\staticwebassets\Hotels.StaticWebAssets.xml
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\scopedcss\bundle\Hotels.styles.css
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Hotels.TagHelpers.input.cache
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Hotels.TagHelpers.output.cache
@@ -81,3 +80,6 @@ C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Razor\Views\Roles\Edi
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
 C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Razor\Views\Roles\UserList.cshtml.g.cs
 C:\Users\nazar\source\repos\Hotels\Hotels\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\nazar\source\repos\Hotels\Hotels\obj\Debug\net5.0\staticwebassets\Hotels.StaticWebAssets.xml
